@@ -17,8 +17,10 @@ Este repositório fornece o código-fonte em Java para as classes e interfaces c
 ## 📊 Diagrama UML
 Feito na ferramenta [drawio](https://www.drawio.com/).
 
+![diagramacao_classe_iphone drawio](https://github.com/CelsoLuiz73/Imagens/assets/42788520/fcac4dde-da91-4bd6-8cca-8fd2b9240fc4)
+
 <p align="center">
-<img src="https://private-user-images.githubusercontent.com/42788520/343177399-fcac4dde-da91-4bd6-8cca-8fd2b9240fc4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk0MTI2NjYsIm5iZiI6MTcxOTQxMjM2NiwicGF0aCI6Ii80Mjc4ODUyMC8zNDMxNzczOTktZmNhYzRkZGUtZGE5MS00YmQ2LThjY2EtOGZkMmI5MjQwZmM0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI2VDE0MzI0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkNjc0ZTIwZTI1ODM4ODIxMWFhY2MzNzNkOGMxNTBlNjA2MGU5YTYxN2ExNzI1ZjEyN2NiOGMwYWVhYWE0YTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.AEHZNl6CuSXiFdMqR2-qrQGI2y0EcuTysoG0ZzjImxU" width="600" /> 
+<img src="(https://github.com/CelsoLuiz73/Imagens/assets/42788520/fcac4dde-da91-4bd6-8cca-8fd2b9240fc4)" width="500" /> 
 </p>
 
 Nesta seção, apresentamos uma explicação de cada classe representada no diagrama de classe do projeto. Cada classe desempenha um
